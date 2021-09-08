@@ -13,3 +13,7 @@ To run the demo, you need the ff:
 $ yarn
 $ yarn start
 ```
+
+## Demo
+
+[![asciicast](https://asciinema.org/a/8tsrWDy2X7GDnfH8xj9ZnBNtO.svg)](https://asciinema.org/a/8tsrWDy2X7GDnfH8xj9ZnBNtO)
