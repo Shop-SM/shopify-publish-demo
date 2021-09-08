@@ -103,7 +103,6 @@ async function askConfig(): Promise<Config> {
     type: "text",
     name: "shopName",
     message: "Enter shop name (<shopname>.myshopify.com):",
-    initial: "sm-shop-ph",
   }, {
     type: "password",
     name: "accessToken",
@@ -116,7 +115,7 @@ async function askProductId(): Promise<string | undefined> {
     type: "text",
     name: "productId",
     message: "Enter product id",
-    initial: "6992020603058",
+    // initial: "",
   })).productId;
 }
 
